@@ -1,0 +1,13 @@
+Command to Set local Configuration to use git in local
+======================================================
+
+
+git config --global user.name "********"
+
+git config --global user.email "**********"
+
+
+Command to clone git repository to local repository
+===========================================================
+
+git clone (line/orgin)
