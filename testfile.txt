@@ -7,7 +7,7 @@ git config --global user.name "********"
 git config --global user.email "**********"
 
 
-Command to clone git repository to local repository
+Command to clone git repository to local repository(run the command on respective folder)
 ===========================================================
 
-git clone (line/orgin)
+git clone (line/origin)
